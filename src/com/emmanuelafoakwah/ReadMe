@@ -1,0 +1,19 @@
+Emmanuel Afoakwah, 2019
+
+This project is an implementation of the underlying functionality of a T9 style predictive text system. The basic goal
+of the system is to allow a primarily numerical 0-9 keyboard to be used to generate words. This is achieved through
+taking the numerical "signatures" that can be entered by a T9 style 0-9 keyboard and referencing a dictionary (of words)
+to return all the words that correspond to that signature. The user would then be able to select the word they intend
+to add to their message.
+
+The project is split into 4 implementations, some building on aspects of previous implementations:
+1) Prototype - sets up basic functionality, reads dictionary straight from .txt file
+2) List Implementation - loads .txt dictionary into a list
+3) Map Implementation - loads .txt dictionary into a map
+4) Tree Implementation - loads .txt dictionary into a tree, capable of matching partial words
+
+The project assumes the following keyboard configuration:
+
+1 -         2 - abc     3 - def
+4 - ghi     5 - jkl     6 - mno
+7 - pqrs    8 - tuv     9 - wxyz
