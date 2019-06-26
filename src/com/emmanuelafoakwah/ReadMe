@@ -8,7 +8,7 @@ to add to their message.
 
 The project is split into 4 implementations, some building on aspects of previous implementations:
 1) Prototype - sets up basic functionality, reads dictionary straight from .txt file
-2) List Implementation - loads .txt dictionary into a list
+2) List Implementation - loads .txt dictionary into a list, utilises binary search
 3) Map Implementation - loads .txt dictionary into a map
 4) Tree Implementation - loads .txt dictionary into a tree, capable of matching partial words (uses custom octree implementation)
 

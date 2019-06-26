@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0484fb94-bcfa-4343-a568-96d588aa2c73" name="Default Changelist" comment="" />
+    <list default="true" id="0484fb94-bcfa-4343-a568-96d588aa2c73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/T9_Predictive_Text/com/emmanuelafoakwah/ReadMe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/T9_Predictive_Text/com/emmanuelafoakwah/map_dictionary/MapDictionary.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/T9_Predictive_Text/com/emmanuelafoakwah/map_dictionary/Sigs2WordsMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/MapDictionary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/Sigs2WordsMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadMe" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/T9_Predictive_Text/com/emmanuelafoakwah/list_dictionary/ListDictionary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/T9_Predictive_Text/com/emmanuelafoakwah/list_dictionary/ListDictionary.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/emmanuelafoakwah/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/emmanuelafoakwah/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/emmanuelafoakwah/ReadMe" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/emmanuelafoakwah/ReadMe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/ListDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/ListDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/Sigs2WordsList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/Sigs2WordsList.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,26 +27,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" selection-end-line="1" />
+            <state relative-caret-position="85">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/shared/Constants.java">
+        <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/MapDictionary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="204">
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/Sigs2WordsMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/ListDictionary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/Sigs2WordsList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/ReadMe">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="170">
+              <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
             </state>
           </provider>
         </entry>
@@ -41,8 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ReadMe">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="128" selection-start-line="12" selection-start-column="128" selection-end-line="12" selection-end-column="128" />
+            <state relative-caret-position="187">
+              <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -70,11 +110,14 @@
         <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/utilities/Constants.java" />
         <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/prototype/Words2SigProto.java" />
         <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/shared/Dictionary.java" />
-        <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/ListDictionary.java" />
         <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/WordSig.java" />
-        <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/Sigs2WordsList.java" />
         <option value="$PROJECT_DIR$/ReadMe" />
         <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/ReadMe" />
+        <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/Sigs2WordsMap.java" />
+        <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/MapDictionary.java" />
+        <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/ListDictionary.java" />
+        <option value="$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/Sigs2WordsList.java" />
       </list>
     </option>
   </component>
@@ -108,6 +151,20 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="emmanuelafoakwah" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="T9_Predictive_Text" type="b2602c69:ProjectViewProjectNode" />
+              <item name="T9_Predictive_Text" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="emmanuelafoakwah" type="462c0819:PsiDirectoryNode" />
+              <item name="list_dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="T9_Predictive_Text" type="b2602c69:ProjectViewProjectNode" />
+              <item name="T9_Predictive_Text" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="emmanuelafoakwah" type="462c0819:PsiDirectoryNode" />
+              <item name="map_dictionary" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -119,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561587120629" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561589577368" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Sigs2WordsList">
+  <component name="RunManager" selected="Application.Sigs2WordsMap">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.emmanuelafoakwah.Main" />
       <module name="T9_Predictive_Text" />
@@ -151,6 +208,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.emmanuelafoakwah.list_dictionary.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sigs2WordsMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.emmanuelafoakwah.map_dictionary.Sigs2WordsMap" />
+      <module name="T9_Predictive_Text" />
+      <option name="PROGRAM_PARAMETERS" value="43556 44" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.emmanuelafoakwah.map_dictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,9 +262,11 @@
       <item itemvalue="Application.Sigs2WordsProto" />
       <item itemvalue="Application.Words2SigProto" />
       <item itemvalue="Application.Sigs2WordsList" />
+      <item itemvalue="Application.Sigs2WordsMap" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sigs2WordsMap" />
         <item itemvalue="Application.Sigs2WordsList" />
         <item itemvalue="Application.Sigs2WordsProto" />
         <item itemvalue="Application.Words2SigProto" />
@@ -210,22 +283,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561576538017</updated>
-      <workItem from="1561576540033" duration="10164000" />
+      <workItem from="1561576540033" duration="12728000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10164000" />
+    <option name="totallyTimeSpent" value="12728000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1672" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Messages" weight="0.32872504" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
@@ -235,7 +309,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -263,10 +337,10 @@
       <window_info anchor="bottom" id="Terminal" order="2" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="5" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.32872504" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32872504" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.32872504" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.32872504" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -314,38 +388,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/ListDictionary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="16" lean-forward="true" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/shared/Dictionary.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/WordSig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/Sigs2WordsList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-53">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -356,17 +402,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ReadMe">
+    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/ReadMe">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="128" selection-start-line="12" selection-start-column="128" selection-end-line="12" selection-end-column="128" />
+        <state relative-caret-position="170">
+          <caret line="10" column="60" selection-start-line="10" selection-start-column="60" selection-end-line="10" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/ReadMe">
+    <entry file="file://$PROJECT_DIR$/ReadMe">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="187">
+          <caret line="11" column="56" lean-forward="true" selection-start-line="11" selection-start-column="56" selection-end-line="11" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/WordSig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/MapDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/map_dictionary/Sigs2WordsMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/ListDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/emmanuelafoakwah/list_dictionary/Sigs2WordsList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
         </state>
       </provider>
     </entry>
